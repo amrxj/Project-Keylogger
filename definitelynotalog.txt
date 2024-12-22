@@ -1,0 +1,14 @@
+Key: h
+Key: i
+Key: space
+Key: f
+Key: i
+Key: n
+Key: e
+Key: space
+Key: s
+Key: h
+Key: y
+Key: t
+Key: s
+Key: esc
